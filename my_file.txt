@@ -1,0 +1,5 @@
+This is the first line of text.
+The second line contains a number: 42
+This is the final line, adding some variety!This is a new line appended to the file.
+Another line added to the end.
+And one more line for good measure!
